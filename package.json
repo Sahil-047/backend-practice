@@ -1,0 +1,19 @@
+{
+  "name": "plfs",
+  "version": "1.0.0",
+  "description": "production level file structuring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\t"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "SAHIL",
+  "license": "ISC"
+}
